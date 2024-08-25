@@ -7,8 +7,13 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.10"
+ipython = "^8.26.0"
+cluedin = "^2.5.0"
 
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+pytest = "^8.3.2"
 
 [build-system]
 requires = ["poetry-core"]
