@@ -10,10 +10,12 @@ readme = "README.md"
 python = "^3.10"
 ipython = "^8.26.0"
 cluedin = "^2.5.0"
+pandas = "^2.2.2"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
 pytest = "^8.3.2"
+python-dotenv = "^1.0.1"
 
 [build-system]
 requires = ["poetry-core"]
