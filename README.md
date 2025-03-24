@@ -1,4 +1,16 @@
-# CluedIn IPython magic commands
+# :warning: This Repository Is Archived
+
+Thank you for your interest in this project.
+
+This repository is no longer maintained or updated.
+
+For the latest code, contributions, and support, please visit the actively maintained repository here:
+
+[**CluedIn-io/CluedIn.Magic.Py**](https://github.com/CluedIn-io/CluedIn.Magic.Py)
+
+---
+
+CluedIn IPython magic commands
 
 This module provides IPython [magic](https://ipython.readthedocs.io/en/stable/interactive/python-ipython-diff.html#magics) commands for interacting with the CluedIn API.
 
